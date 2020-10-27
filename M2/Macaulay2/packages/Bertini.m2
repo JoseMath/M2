@@ -8,7 +8,7 @@ newPackage(
      Email=> "elizabeth.gross@sjsu.edu",
      HomePage => "http://math.sjsu.edu/~egross"},
     {Name => "Jose Israel Rodriguez",
-     Email => "JoIsRo@UChicago.edu",
+     Email => "jRodriguez43@wisc.edu",
      HomePage =>"http://home.uchicago.edu/~joisro"},
     {Name => "Dan Bates",
      Email => "bates@math.colostate.edu",
